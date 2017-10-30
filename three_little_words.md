@@ -77,7 +77,11 @@ I don't miss the romance. I don't miss the emotional support. What do I miss?
 
 // The kind of love we show with our words
 
-`..  .-.. --- ...- .  -.-- --- ..-`
+```
+..
+.-.. --- ...- .
+-.-- --- ..-
+```
 
 I miss you like the Sea misses the Sky. I miss you like the Sun yearns to kiss the Earth, like icarus misses his wings.
 
