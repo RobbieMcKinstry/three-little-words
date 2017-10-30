@@ -21,7 +21,7 @@ I don't always say those three little words.
 
 Sometimes I say "go die". Sometimes I say "wow I'm dumb". Sometimes I say "I'm sorry I made you angry". Sometimes I say "I'm so glad to see you, it's been far too long and I really missed your smile."
 
-Sometimes when I'm with you I choke up like I'm on stage for the first time and blush like I can't remember the words in my script so I choose instead to shout silence. I promise myself at this very moment to express my "I love you" with a token, an offering. I picture a pink rose, a warm drink, or a small chocolate. In my minds eye, I scout for nearest locations where I can acquire these tributes. A heartbeat passes. My blushing dissipate like the mist off of the bay, and my voice returns because I know my actions speak louder than words.
+Sometimes when I'm with you I choke up like I'm on stage for the first time and blush like I can't remember the words in my script so I choose instead to shout silence. I promise myself at this very moment to express my "I love you" with a token, an offering. I picture a pink rose, a warm drink, or a small chocolate. In my minds eye, I scout for nearest locations where I can acquire these tributes. A heartbeat passes. My blushing dissipates like the mist off of the bay, and my voice returns because I know my actions speak louder than words.
 
 `gcc storge.c`
 
@@ -35,9 +35,9 @@ Sometimes when I'm with you I choke up like I'm on stage for the first time and 
 
 > What's in a name? That which we call a rose by any other name would smell as sweet. So Romeo would were he not Romeo called.
 
-A name is just a pointer\*. It's a reference to an unseen thing. The name of a thing summonrs it. When we use a thing's name, we conjure within ourselves its memory. In this way, a name is a summary of an entity.
+A name is just a pointer\*. It's a reference to an unseen thing. The name of a thing summons it. When we use a thing's name, we conjure within ourselves its memory. In this way, a name is a summary of an entity.
 
-How then do we summarize other things?
+How do we summarize other things?
 
 0. [abstract things](http://mathworld.wolfram.com/TaylorSeries.html)
 1. [intangibles](https://www.cliffsnotes.com/)
@@ -65,7 +65,7 @@ I love you.
 
 1 4 3.
 
-Sometimes I miss you. Sometimes I think about your sensual touch. Sometimes I miss our passion, and I lust after you.
+Sometimes I miss you. Sometimes I think about the goosepimples I get from your touch. Sometimes I miss our passion, and I lust after you.
 
 [4 3.](http://images.furycomics.com/viewer/e0/e0c9e5ecc4f810585746fe376a9127a3/12.jpg)
 
